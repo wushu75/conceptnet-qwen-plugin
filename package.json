@@ -1,0 +1,26 @@
+{
+  "name": "conceptnet-qwen-plugin",
+  "version": "1.0.0",
+  "description": "ConceptNet intent classification plugin for Qwen / Alibaba Cloud — classifies enterprise commands before Qwen tool calls execute",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "qwen",
+    "alibaba",
+    "intent-classification",
+    "enterprise-ai",
+    "voice-ai",
+    "tool-calling",
+    "agent",
+    "conceptnet",
+    "nlp",
+    "multilingual"
+  ],
+  "author": "Tony Momoh <tonymomoh@icloud.com>",
+  "license": "MIT",
+  "homepage": "https://conceptnet.co.uk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wushu75/conceptnet-qwen-plugin"
+  }
+}
